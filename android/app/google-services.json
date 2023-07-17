@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "666499358123",
+    "project_id": "cornerstone-9dbee",
+    "storage_bucket": "cornerstone-9dbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666499358123:android:b81e775cfef31f79cc06ee",
+        "android_client_info": {
+          "package_name": "com.cornerstone.cornerstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666499358123-jbq38uiuafk83l1bqh6d3hv8rmc3c4nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cornerstone.cornerstone",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "666499358123-f661a4tliu2ah9q2o5ip96gm2o9fog78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJdFqCv560GWHzJuOlqknGQsQi6ZnRzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666499358123-f661a4tliu2ah9q2o5ip96gm2o9fog78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666499358123-pb36qk04otde9f45k8g72v0p928j0os3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cornerstone.cornerstone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
